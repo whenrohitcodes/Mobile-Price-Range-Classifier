@@ -1,4 +1,5 @@
-Mobile Price Range Classifier using Machine Learning
+**Mobile Price Range Classifier using Machine Learning**
+
 Tools & Technologies: Python, Pandas, Matplotlib, Seaborn, Plotly, Google Colab, Scikit-learn
 
 Description:
